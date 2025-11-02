@@ -24,9 +24,7 @@ Figure 2: Series Battery Combination Simulation Circuit
 > - Step 4: Click the **“Start Simulation”** button to see the result.
 
 ```
-1.2.	Learning Reflection
 
-Write a brief note about the results of the Series Battery Combination simulation.
 1.2.	Learning Reflection
 
 Write a brief note about the results of the Series Battery Combination simulation.
