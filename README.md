@@ -83,8 +83,7 @@ Figure 6: Simple simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
-
-
+We observed that when a 9V battery resistor switch and LED were connected in a simple circuit the LED glowed when the switch was turned on indicating current flow through the circuit. When the resistance value was increased the LED brightness decreased and when the resistance was lowered the LED glowed brighter. Hence, we conclude that the resistor controls the current flow and the intensity of the LED depends on the amount of current passing through it.
 ```
 
 **3.2.	Simulating a simple electric circuit by using a breadboard to connect components.**
