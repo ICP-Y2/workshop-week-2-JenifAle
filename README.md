@@ -98,7 +98,7 @@ Figure 7: Using a breadboard to connect components.
 **3.2.	Learning Reflection**
 
 Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
-
+We observed that with a 1kohm resistor the LED glowed brightly with 2kohm it was dim, and with 3kohm it didn't glow because of high resistance. Without a resistor the LED was very bright but got damaged. Also if the LED is connected in the wrong direction it doesn’t glow since the anode must connect to the positive side and the cathode to the negative side.
 
 ```
 ### 4.	Simulation 4: Simulating Voltage Divider Circuit
