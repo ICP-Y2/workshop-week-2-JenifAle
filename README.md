@@ -56,7 +56,7 @@ Figure 4: Parallel Battery Combination Simulation Circui
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of the Parallel Battery Combination simulation.
-
+We observed that when four 1.5 V batteries were connected in parallel connection the multimeter showed an overall voltage of 1.5 V. Hence, when the batteries are connected in parallel the overall voltage across the circuit remains the **same as the voltage of a single battery while the current capacity increases allowing the batteries to supply power for a longer duration.
 
 ```
 ### 3.	Simulation 3: Simulating a simple electric circuit
