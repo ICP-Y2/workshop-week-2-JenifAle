@@ -1,11 +1,6 @@
 # workshop-week-2
 
 ## **Online Circuit Simulation**
-1.2.	Learning Reflection
-
-Write a brief note about the results of the Series Battery Combination simulation.
-We observed that when four 1.5v battery is connected in series connection, the multimeter showed overall voltage of 6v.
-Hence, when the batteries are connected in series, the overall voltage across the circuit is the sum of the voltage of the batteries``
 
 ### **1.	Simulation 1: Simulating Series Battery Combination**
 
@@ -32,7 +27,11 @@ Figure 2: Series Battery Combination Simulation Circuit
 1.2.	Learning Reflection
 
 Write a brief note about the results of the Series Battery Combination simulation.
+1.2.	Learning Reflection
 
+Write a brief note about the results of the Series Battery Combination simulation.
+We observed that when four 1.5v battery is connected in series connection, the multimeter showed overall voltage of 6v.
+Hence, when the batteries are connected in series, the overall voltage across the circuit is the sum of the voltage of the batteries
 
 ```
 
